@@ -1,1 +1,1 @@
-Basha is making changes
+This is for storing Java notes.
